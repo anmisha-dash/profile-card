@@ -3,7 +3,7 @@
 A clean, responsive profile card built with pure HTML and CSS.
 
 ## Preview
-![Profile Card](screenshot.png)
+![Profile Card](profile.png)
 
 ## Features
 - Responsive card layout using Flexbox
